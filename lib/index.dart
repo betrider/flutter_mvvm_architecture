@@ -6,4 +6,3 @@ export 'package:flutter_mvvm_architecture/models/models.dart';
 export 'package:flutter_mvvm_architecture/routes.dart';
 export 'package:flutter_mvvm_architecture/theme/theme.dart';
 export 'package:flutter_mvvm_architecture/utils/utils.dart';
-export 'package:flutter_mvvm_architecture/widgets/widgets.dart';
